@@ -1,0 +1,25 @@
+html {
+    font-family: arial;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.texto1 {
+    border: solid red;
+    color: teal;
+}
+
+.texto2 {
+    color: green;
+}
+
+.exploracion {
+    background-color: yellow;
+}
+
+#us {
+    text-decoration: underline;
+}

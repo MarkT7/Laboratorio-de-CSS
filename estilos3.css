@@ -1,0 +1,12 @@
+html {
+    font-family: Verdana;
+    background-color: yellow;
+}
+
+h1 {
+    color: blue;
+    border: solid 8px red;
+    margin: 10px;
+    padding: 8px;
+    background-color: white;
+}
